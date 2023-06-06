@@ -1,0 +1,18 @@
+[
+  {
+    "item": "chocolate",
+    "price": 200
+  },
+  {
+    "item": "pancho",
+    "price": 150
+  },
+  {
+    "item": "helado",
+    "price": 125
+  },
+  {
+    "item": "pizza",
+    "price": 400
+  }
+]
